@@ -1,1 +1,1 @@
-# programowanie_obiektowe_i_graficzne_sem_4
+Microsoft forms sluzacy do tworzenia listy studentow. Program pozwala zapisywac i wcztwac listy zapisane w formacie JSON
