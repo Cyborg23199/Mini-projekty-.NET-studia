@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lab_2
+namespace Lab_2.Modele
 {
 
-    internal enum Tytul { brak, inz, mgr, dr, lic, prof }
-    internal class Prowadzacy
+    public enum Tytul { brak, inz, mgr, dr, lic, prof }
+    public class Prowadzacy
     {
         public string Imie { get; set; }
         public string Nazwisko { get; set; }
